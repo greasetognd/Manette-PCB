@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UNSXWBGN
 
 [Document2]
 DocumentPath=..\Libraries\243-336_MP_Manette_ETU.PcbLib
@@ -203,23 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HMMJOWRI
 
 [Document10]
-DocumentPath=..\Libraries\TEP_243-Altium_DBLib.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
 DocumentPath=..\Libraries\TEP_243-Altium_RLC-Lib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,24 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=..\Libraries\TEP_243-Altium_RLC_Librairie.xlsx
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PPDPXXPQ
 
 [Configuration1]
 Name=Sources
