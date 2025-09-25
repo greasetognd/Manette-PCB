@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=PageTete.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=PageTete.SchDoc|Designator=U_Alimentation|SchDesignator=U_Alimentation|FileName=Alimentation.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Alimentation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PageTete.SchDoc|Designator=U_HomeLedEncoder|SchDesignator=U_HomeLedEncoder|FileName=HomeLedEncoder.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=HomeLedEncoder.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PageTete.SchDoc|Designator=U_IOExpander LEFT|SchDesignator=U_IOExpander LEFT|FileName=IOExpander.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=IOExpander.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PageTete.SchDoc|Designator=U_IOExpander RIGHT|SchDesignator=U_IOExpander RIGHT|FileName=IOExpander.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=IOExpander.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=PageTete.SchDoc|FileName=ButtonStick.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=PageTete.SchDoc|FileName=ControleurInterface.SchDoc|SheetNumber=2
