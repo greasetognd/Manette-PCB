@@ -50,6 +50,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=U:\Manette-PCB\Capteur-PCB\CapteurPCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HDQNXGCC
+
+[Document2]
 DocumentPath=..\Libraries\TEP_243-Altium_RLC-Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNSXWBGN
 
-[Document2]
+[Document3]
 DocumentPath=..\Libraries\243-336_MP_Manette_ETU.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document4]
 DocumentPath=..\Libraries\243-336_MP_Manette_ETU.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPGBCCIW
 
-[Document4]
+[Document5]
 DocumentPath=HomeLedEncoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJKFFYRJ
 
-[Document5]
+[Document6]
 DocumentPath=ButtonStick.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HIKCTBPI
 
-[Document6]
+[Document7]
 DocumentPath=IOExpander.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CIPQYEMD
 
-[Document7]
+[Document8]
 DocumentPath=ControleurInterface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MGCIVUBZ
 
-[Document8]
+[Document9]
 DocumentPath=Alimentation.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHYCEWEE
 
-[Document9]
+[Document10]
 DocumentPath=PageTete.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HMMJOWRI
 
-[Document10]
+[Document11]
 DocumentPath=..\Libraries\TEP_243-Altium_RLC-Lib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPDPXXPQ
 
-[Document11]
+[Document12]
 DocumentPath=U:\Manette-PCB\Capteur-PCB\SchemaBloc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,23 +252,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGHFZETF
-
-[Document12]
-DocumentPath=U:\Manette-PCB\Capteur-PCB\CapteurPCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HDQNXGCC
 
 [Document13]
 DocumentPath=..\..\..\Downloads\243-336_MP_Manette-DXF\243-336_MP_Manette.DXF
